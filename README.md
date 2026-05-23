@@ -47,11 +47,11 @@ IDKSQL does the rest:
 
 ### The Landing Page
 
-![IDKSQL Landing](./ScreenShot/IDKDEMO.jpg)
+![IDKSQL Main UI](./ScreenShot/IDKSQL.jpeg)
 
 ### The Query Execution Interface
 
-![IDKSQL Main UI](./ScreenShot/IDKSQL.jpeg)
+![IDKSQL Landing](./ScreenShot/IDKDEMO.jpg)
 
 ### The VSCode Extension
 
